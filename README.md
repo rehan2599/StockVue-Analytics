@@ -17,24 +17,7 @@ StockVue Analytics is a comprehensive macOS stock market tracking application th
 - **Data Visualization**: Swift Charts
 - **Routing**: Custom lightweight routing engine
 
-## Project Structure
-```
-StockVueAnalytics/
-├── Models/
-│   ├── Stock.swift
-│   └── StockPrice.swift
-├── Views/
-│   ├── StockDetailView.swift
-│   └── MarketDashboardView.swift
-├── Services/
-│   ├── StockAPIService.swift
-│   └── NewsAPIService.swift
-├── ViewModels/
-│   └── StockViewModel.swift
-└── Utilities/
-    ├── Router.swift
-    └── APIClient.swift
-```
+
 
 ## Core Functionalities
 - Fetch real-time stock prices
